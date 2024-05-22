@@ -1,0 +1,10 @@
+.ssh/
+.vscode/
+data/
+
+*
+
+!.gitignore
+!README.md
+!src/
+!src/**
